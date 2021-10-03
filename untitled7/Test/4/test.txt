@@ -1,0 +1,86 @@
+1
+t1 35
+2
+teeeeeeeeeeeeeeeeeee2 5
+3
+tccccceeeest3 2
+1
+teeess 5
+2
+tcceeest3 2
+1
+t1ww 35
+2
+teeeeeeexcveeeeeeeeeeee2 5
+3
+tccccceesdsdeest3 2
+2
+teeesdsddss 5
+3
+tcceetysdfest3 2
+1
+tseadefe1 35
+2
+teedgsdfgeeeeeeeeeeeeeeeee2 7
+3
+tccccsdgsgceeeest3 1
+2
+teeesersfes 10
+3
+tcceesdfsdfest3 1
+2
+teeeeeeeeeeeeeeeeeee2 5
+3
+tccccceeeest3 2
+1
+teeess 5
+2
+tcceeest3 2
+1
+t1ww 35
+2
+teeeeeeexcfvveeeeeeeeeeee2 5
+3
+tcccccfvesdsdeest3 2
+2
+teeessfdsddss 5
+3
+tcceesftyest3 2
+1
+tseasfdefe1 35
+2
+teedgsfsdfgeeeeeeeeeeeeeeeee2 7
+3
+tccccsfffdgsgceeeest3 1
+2
+teeeseres 10
+3
+tcceefffsdfsdfest3 12
+1
+teeeeeeeeeeeeeeeeeee2 5
+3
+tccccceeeest3 2
+1
+teeess 5
+2
+tcceeest3 2
+1
+t1ww 35
+2
+teeeeeeesgdxcveeeeeeeeeeee2 5
+3
+tccccceessgdsdeest3 2
+2
+teeesdssdfgddss 5
+3
+tcceetysgfest3 2
+1
+tseadesfgfe1 35
+2
+teedgssdfgdfgeeeeeeeeeeeeeeeee2 7
+3
+tccccsdgsfgsgceeeest3 1
+2
+teeessrteres 10
+3
+tcceerrrrsdfsdfest3 1

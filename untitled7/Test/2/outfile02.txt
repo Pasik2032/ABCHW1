@@ -1,0 +1,16 @@
+Container contains 15 elements.
+0: It is bush: name = teeeeeeeeeeeeeeeeeee2, Number month of flowering = 5. Quotient = 0.0952381
+1: It is bush: name = teeeeeeexcveeeeeeeeeeee2, Number month of flowering = 5. Quotient = 0.208333
+2: It is bush: name = teedgsdfgeeeeeeeeeeeeeeeee2, Number month of flowering = 7. Quotient = 0.296296
+3: It is bush: name = teeeseres, Number month of flowering = 10. Quotient = 0.444444
+4: It is tree: name = teeess, age = 5. Quotient = 0.5
+5: It is tree: name = tseadefe1, age = 35. Quotient = 0.555556
+6: It is flowers: name = tcceetyest3, type of = wild. Quotient = 0.636364
+7: It is bush: name = tcceeest3, Number month of flowering = 2. Quotient = 0.666667
+8: It is flowers: name = tccccceeeest3, type of = wild. Quotient = 0.692308
+9: It is bush: name = teeesdsddss, Number month of flowering = 5. Quotient = 0.727273
+10: It is flowers: name = tccccceesdsdeest3, type of = wild. Quotient = 0.764706
+11: It is flowers: name = tccccsdgsgceeeest3, type of = garden. Quotient = 0.777778
+12: It is flowers: name = tcceesdfsdfest3, type of = garden. Quotient = 0.8
+13: It is tree: name = t1, age = 35. Quotient = 1
+14: It is tree: name = t1ww, age = 35. Quotient = 1
